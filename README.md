@@ -1,2 +1,3 @@
 # nodeschool-workshops
-https://nodeschool.io/ workshops solutions.
+
+[nodeschool.io](https://nodeschool.io) workshops solutions.
