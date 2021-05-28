@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "javascripting": "^2.7.3"
+    "javascripting": "^2.7.3",
+    "learnyounode": "^4.2.2"
   }
 }
